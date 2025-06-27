@@ -1,5 +1,5 @@
 
-# AI-driven RPG Adventure Game
+# AI RPG Adventure Game
 
 [![Support Me on Ko-fi](https://img.shields.io/badge/Support%20Me%20on-Ko--fi-ff5f5f?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/laszlobeer)
 
