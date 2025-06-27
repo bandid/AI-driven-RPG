@@ -1,12 +1,11 @@
 
 # AI RPG Adventure Game
 
-[![Support Me on Ko-fi](https://img.shields.io/badge/Support%20Me%20on-Ko--fi-ff5f5f?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/laszlobeer)
 
 ![Demo](Screen%20Capture_select-area_20250625183819.gif)
 
 
-**Dungeo AI** is an immersive, AI-driven RPG that merges advanced storytelling with rich visuals and voice narration. Powered by [Ollama](https://ollama.com/) and [AllTalk TTS](https://github.com/erew123/alltalk_tts), every adventure is unique, with dynamic world states and permanent consequences based on your choices.
+**AI RPG Adventure** is an immersive, AI-driven RPG that merges advanced storytelling with rich visuals and voice narration. Powered by [Ollama](https://ollama.com/) and [AllTalk TTS](https://github.com/erew123/alltalk_tts), every adventure is unique, with dynamic world states and permanent consequences based on your choices.
 
 ---
 
@@ -48,8 +47,8 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Laszlobeer/Dungeo_ai_GUI.git
-   cd Dungeo_ai_GUI-main
+   git clone https://github.com/bandid/AI-driven-RPG.git
+   cd AI-driven-RPG
    ```
 
 2. **Install dependencies**
@@ -106,32 +105,8 @@
 
 ---
 
-## 🤝 Contributing
+## Credits
 
-We welcome contributions!
-Feel free to open an issue or submit a pull request for any bugs, enhancements, or new features.
+This was forked from [GitHub repository](https://github.com/Laszlobeer/Dungeo_ai_GUI/). 
 
-
-
----
-
-## 🛟 Support
-
-If you encounter bugs or have questions, please open an issue in the [GitHub repository](https://github.com/Laszlobeer/Dungeo_ai_GUI/issues).
-
----
-
-## ☕ Support the Developer
-
-If you enjoy **Dungeo AI** and want to support continued development, consider buying me a coffee:
-👉 [**https://ko-fi.com/laszlobeer**](https://ko-fi.com/laszlobeer)
-
----
-
-> **Embark on your AI-powered adventure today!** 🏰🚀🔮
-> Dynamic stories, permanent consequences, infinite worlds.
-
----
-
-Let me know if you want this in Markdown file format (`README.md`) or want a version optimized for GitHub Pages or documentation tools like MkDocs.
 
